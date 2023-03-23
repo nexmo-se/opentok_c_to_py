@@ -1,4 +1,4 @@
-# Opentok C to Python OpenCV Inter-process Communication via Named PIP
+# Opentok C to Python OpenCV Inter-process Communication via Named pipe
 A sample where frames from an Opentok C process is sent to a Python OpenCV process via a named Pipe (FIFO)
 
 You will need a valid [Vonage Video API](https://tokbox.com/developer/)
