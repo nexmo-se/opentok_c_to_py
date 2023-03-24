@@ -88,6 +88,7 @@ the [Vonage Video API server SDKs](https://tokbox.com/developer/sdks/server/).
 Next, create the building bits using `cmake`:
 
 ```bash
+$ mkdir build
 $ cd build
 $ CC=clang CXX=clang++ cmake ..
 ```
